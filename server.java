@@ -1,3 +1,3 @@
 class Server
 {
-grusnfs
+public static
